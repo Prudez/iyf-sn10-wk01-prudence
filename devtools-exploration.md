@@ -24,4 +24,4 @@ https://www.w3schools.com/html/html_basic.asp
 text input and submit input
 
   Screenshot of the elements panel
-<img width="912" height="575" alt="image" src="https://github.com/user-attachments/assets/00cca8bc-7489-44b2-965b-44a3e95b0ca2" />
+<img width="912" height="575" alt="image" src="https://github.com/user-attachments/assets/00cca8bc-7489-44b2-965b-44a
